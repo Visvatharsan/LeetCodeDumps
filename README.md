@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
