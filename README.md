@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0075-sort-colors) |
+| [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
