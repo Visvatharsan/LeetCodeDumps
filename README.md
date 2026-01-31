@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
 ## Interactive
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
