@@ -8,6 +8,6 @@ public:
             sum=sum+prev;
             prev=x;
         }
-        return sum+1-1;
+        return sum;
     }
 };
