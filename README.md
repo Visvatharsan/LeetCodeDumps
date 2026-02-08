@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0119-pascals-triangle-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
