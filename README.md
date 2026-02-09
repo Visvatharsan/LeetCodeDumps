@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,9 +128,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
