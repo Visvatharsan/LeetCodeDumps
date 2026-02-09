@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
