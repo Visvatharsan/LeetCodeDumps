@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
@@ -128,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
