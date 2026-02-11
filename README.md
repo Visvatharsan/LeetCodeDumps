@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0206-reverse-linked-list) |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
