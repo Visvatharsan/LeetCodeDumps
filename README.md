@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0836-rectangle-overlap) |
 ## Interactive
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
