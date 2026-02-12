@@ -145,16 +145,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0836-rectangle-overlap) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
