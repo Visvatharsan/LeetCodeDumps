@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
