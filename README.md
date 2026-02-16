@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0746-min-cost-climbing-stairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -186,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
