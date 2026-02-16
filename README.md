@@ -198,19 +198,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
