@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0374-guess-number-higher-or-lower) |
@@ -190,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
