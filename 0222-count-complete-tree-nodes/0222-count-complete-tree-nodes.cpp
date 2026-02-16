@@ -11,14 +11,37 @@
  */
 class Solution {
 public:
-    int count=0;
+
+    int cleft(TreeNode* root){
+        int count=0;
+        while(root){
+            count++;
+            root=root->left;
+        }
+        return count;
+    }
+
+    int cright(TreeNode* root){
+        int count=0;
+        while(root){
+            count++;
+            root=root->right;
+        }
+        return count;
+    }
+
     int countNodes(TreeNode* root) {
         if(!root){
-            return count;
+            return 0;
         }
-        count++;
-        countNodes(root->left);
-        countNodes(root->right);
-        return count;
+
+        int lheight=cleft(root);
+        int rheight=cright(root);
+
+        if(lheight == rheight){
+            return (pow(2,lheight))-1;
+        }
+
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
