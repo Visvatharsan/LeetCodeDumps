@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
@@ -242,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
