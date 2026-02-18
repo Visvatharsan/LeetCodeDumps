@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
