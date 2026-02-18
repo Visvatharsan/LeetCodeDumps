@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
