@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
