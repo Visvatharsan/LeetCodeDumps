@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0746-min-cost-climbing-stairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0876-middle-of-the-linked-list) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
