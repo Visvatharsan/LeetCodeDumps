@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0215-kth-largest-element-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
