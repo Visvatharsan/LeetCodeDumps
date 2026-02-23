@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0543-diameter-of-binary-tree) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
