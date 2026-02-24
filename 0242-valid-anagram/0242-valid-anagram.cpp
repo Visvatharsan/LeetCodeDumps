@@ -1,23 +1,24 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.size() != t.size()) {
+        if(s.size() != t.size()){
             return false;
         }
 
-        int arr[26];
+        vector<int> arr(26,0);
 
-        for(int i=0; i<s.size(); i++){
-            arr[s[i]-'a']+=1;
-            arr[t[i]-'a']-=1;
+        for(char i: s){
+            arr[i-'a']++;
         }
 
-        for(int i=0;i<26;i++){
-            if(arr[i] != 0){
+        for(char c: t){
+            if(arr[c-'a'] > 0){
+                arr[c-'a']--;
+            }
+            else{
                 return false;
             }
         }
         return true;
-
     }
 };
