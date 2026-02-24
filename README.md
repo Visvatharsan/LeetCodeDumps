@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/2390-removing-stars-from-a-string) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
