@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0836-rectangle-overlap) |
 ## Interactive
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
