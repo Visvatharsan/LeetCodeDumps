@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0171-excel-sheet-column-number) |
 | [0836-rectangle-overlap](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0836-rectangle-overlap) |
 ## Interactive
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
