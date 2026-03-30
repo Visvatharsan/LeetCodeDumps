@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -383,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
