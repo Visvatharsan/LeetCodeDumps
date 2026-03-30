@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0175-combine-two-tables) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
