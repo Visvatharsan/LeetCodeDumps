@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
