@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
