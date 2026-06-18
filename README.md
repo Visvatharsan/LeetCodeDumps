@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/1636-sort-array-by-increasing-frequency) |
