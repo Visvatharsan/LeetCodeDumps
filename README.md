@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0704-binary-search) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0680-valid-palindrome-ii) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/LeetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
