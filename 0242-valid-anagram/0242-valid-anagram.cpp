@@ -1,21 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size() != t.size()){
-            return false;
+        map<char,int> om;
+        for(char i : s){
+            om[i]++;
         }
 
-        vector<int> arr(26,0);
-
-        for(char i: s){
-            arr[i-'a']++;
-        }
-
-        for(char c: t){
-            if(arr[c-'a'] > 0){
-                arr[c-'a']--;
+        for(char i : t){
+            if(om.count(i)==0){
+                return false;
             }
             else{
+                om[i]--;
+            }
+        }
+
+        for(auto i : om){
+            if(i.second > 0 || i.second!=0){
                 return false;
             }
         }
